@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a4baf80.css",
+    "main.js": "/static/js/main.d48c46f5.js",
+    "static/media/custom-rad-hero-bg-video.mp4": "/static/media/custom-rad-hero-bg-video.accba31dee338a149ac2.mp4",
+    "static/media/animation.gif": "/static/media/animation.44a61deca41eed088152.gif",
+    "static/media/1.png": "/static/media/1.13cea5b78bcc319a1548.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/01.webp": "/static/media/01.4da2968501e6b1e1aff3.webp",
+    "index.html": "/index.html",
+    "main.6a4baf80.css.map": "/static/css/main.6a4baf80.css.map",
+    "main.d48c46f5.js.map": "/static/js/main.d48c46f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4baf80.css",
+    "static/js/main.d48c46f5.js"
+  ]
+}
