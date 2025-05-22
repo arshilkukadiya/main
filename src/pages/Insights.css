@@ -1,0 +1,53 @@
+.insights-section {
+  padding: 0.5rem 0;
+  background-color: #000; /* or whatever background you want */
+  color: #fff;
+  width: 100%;
+  height: 100vh;
+}
+
+.insight-card {
+  position: relative;
+  top: 23%;
+  height: 20rem;
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.6s ease-in-out;
+  cursor: pointer;
+}
+
+.insight-card:hover {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+  transform: scale(1.08);
+}
+
+.insight-overlay {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  
+}
+
+.insight-tag {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #aaa;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.insight-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  margin: 0;
+}
